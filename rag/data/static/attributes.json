@@ -1,0 +1,193 @@
+[
+  {
+    "group": "colorwork",
+    "attributes": [
+      { "display": "Intarsia", "pa": "intarsia", "aliases": ["intarsia", "picture knitting", "block color"] },
+      { "display": "Corrugated Ribbing", "pa": "corrugated-ribbing", "aliases": ["corrugated ribbing", "two color ribbing"] },
+      { "display": "Illusion / Shadow Knitting", "pa": "illusion", "aliases": ["illusion", "shadow knitting", "illusion knitting"] },
+      { "display": "Mosaic", "pa": "mosaic", "aliases": ["mosaic", "mosaic knitting", "slip stitch colorwork"] },
+      { "display": "Stranded / Fair Isle", "pa": "stranded", "aliases": ["stranded", "colorwork", "two color", "multi color", "fair isle technique"] },
+      { "display": "Fair Isle", "pa": "fairisle", "aliases": ["fair isle", "fairisle", "traditional fair isle", "nordic colorwork", "scottish colorwork"] },
+      { "display": "Stripes", "pa": "stripes", "aliases": ["stripes", "striped", "stripy", "horizontal stripes"] }
+    ]
+  },
+  {
+    "group": "construction",
+    "attributes": [
+      { "display": "Bias", "pa": "bias", "aliases": ["bias", "diagonal", "bias knitting"] },
+      { "display": "Bottom Up", "pa": "bottom-up", "aliases": ["bottom up", "bottom-up", "cast on at hem", "starting from bottom"] },
+      { "display": "Buttonholes", "pa": "buttonholes", "aliases": ["buttonholes", "buttons"] },
+      { "display": "Double Knitting", "pa": "double-knitting", "aliases": ["double knitting", "double knit construction", "two layer"] },
+      { "display": "Entrelac", "pa": "entrelac", "aliases": ["entrelac", "basket weave knitting"] },
+      { "display": "Felted / Fulled", "pa": "felted", "aliases": ["felted", "fulled", "wet felted", "needle felted"] },
+      { "display": "Freeform", "pa": "freeform", "aliases": ["freeform", "free form", "scrumble"] },
+      { "display": "Gusset", "pa": "gusset", "aliases": ["gusset", "thumb gusset", "underarm gusset"] },
+      { "display": "I-Cord", "pa": "icord", "aliases": ["icord", "i-cord", "applied icord"] },
+      { "display": "Kitchener / Grafting", "pa": "kitchener", "aliases": ["kitchener", "grafting", "kitchener stitch"] },
+      { "display": "Modular / Join As You Go", "pa": "modular", "aliases": ["modular", "join as you go", "jayg", "mitered squares"] },
+      { "display": "Moebius", "pa": "moebius", "aliases": ["moebius", "mobius", "twisted loop"] },
+      { "display": "Motifs", "pa": "motifs", "aliases": ["motifs", "motif", "applied motifs"] },
+      { "display": "One-Piece", "pa": "one-piece", "aliases": ["one piece", "one-piece", "no seams", "seamless one piece"] },
+      { "display": "Provisional Cast-On", "pa": "provisional-cast-on", "aliases": ["provisional cast on", "provisional", "invisible cast on"] },
+      { "display": "Seamed", "pa": "seamed", "aliases": ["seamed", "sewn seams", "mattress stitch"] },
+      { "display": "Seamless", "pa": "seamless", "aliases": ["seamless", "no seam", "no sewing up", "in the round seamless"] },
+      { "display": "Short Rows", "pa": "short-rows", "aliases": ["short rows", "short row", "german short rows", "wrap and turn"] },
+      { "display": "Sideways", "pa": "sideways", "aliases": ["sideways", "worked sideways", "horizontal construction"] },
+      { "display": "Steeks", "pa": "steeks", "aliases": ["steeks", "steeked", "cut knitting"] },
+      { "display": "Top Down", "pa": "top-down", "aliases": ["top down", "top-down", "starting at neckline", "yoke down", "from the top"] },
+      { "display": "Worked Flat", "pa": "worked-flat", "aliases": ["worked flat", "flat knitting", "back and forth", "on straight needles"] },
+      { "display": "Worked In The Round", "pa": "worked-in-the-round", "aliases": ["in the round", "circular", "magic loop", "dpns", "circular needles", "tubular"] }
+    ]
+  },
+  {
+    "group": "crochet techniques",
+    "attributes": [
+      { "display": "Irish Crochet", "pa": "irish-crochet", "aliases": ["irish crochet", "irish lace"] },
+      { "display": "Tunisian Crochet", "pa": "tunisian", "aliases": ["tunisian", "afghan crochet", "tunisian crochet"] },
+      { "display": "Granny Square", "pa": "granny-square", "aliases": ["granny square", "granny squares"] },
+      { "display": "Tapestry Crochet", "pa": "tapestry-crochet", "aliases": ["tapestry crochet", "tapestry", "colorwork crochet"] },
+      { "display": "Filet Crochet", "pa": "filet-crochet", "aliases": ["filet crochet", "filet", "mesh crochet"] },
+      { "display": "Broomstick Crochet", "pa": "broomstick-crochet", "aliases": ["broomstick crochet", "broomstick lace"] },
+      { "display": "Surface Crochet", "pa": "surface-crochet", "aliases": ["surface crochet", "applied crochet"] }
+    ]
+  },
+  {
+    "group": "design elements - collar",
+    "attributes": [
+      { "display": "Shawl Collar", "pa": "shawl", "aliases": ["shawl collar", "shawl neck", "lapel collar"] },
+      { "display": "Mandarin Collar", "pa": "mandarin", "aliases": ["mandarin collar", "band collar", "chinese collar"] },
+      { "display": "Peter Pan Collar", "pa": "peter-pan", "aliases": ["peter pan collar"] },
+      { "display": "Rolled Collar", "pa": "rolled", "aliases": ["rolled collar", "roll neck"] }
+    ]
+  },
+  {
+    "group": "design elements - neck",
+    "attributes": [
+      { "display": "Boat Neck", "pa": "boat-neck", "aliases": ["boat neck", "bateau neck", "wide neck"] },
+      { "display": "Cowl Neck", "pa": "cowl-neck", "aliases": ["cowl neck", "draped neck"] },
+      { "display": "Crew Neck", "pa": "crew-neck", "aliases": ["crew neck", "crewneck", "round neck"] },
+      { "display": "Halter", "pa": "halter", "aliases": ["halter", "halter neck", "halterneck"] },
+      { "display": "Henley", "pa": "henley", "aliases": ["henley", "henley neck", "placket neck"] },
+      { "display": "Mock Turtle", "pa": "mock-turtle", "aliases": ["mock turtle", "mock turtleneck", "funnel neck short"] },
+      { "display": "Scoop Neck", "pa": "scoop-neck", "aliases": ["scoop neck", "scoop neckline"] },
+      { "display": "Square Neck", "pa": "square-neck", "aliases": ["square neck", "square neckline"] },
+      { "display": "Turtle Neck", "pa": "turtle-neck", "aliases": ["turtleneck", "turtle neck", "poloneck", "polo neck", "roll neck high"] },
+      { "display": "V Neck", "pa": "v-neck", "aliases": ["v neck", "v-neck", "vneck", "v neckline"] },
+      { "display": "Funnel Neck", "pa": "funnel-neck", "aliases": ["funnel neck", "funnel", "chimney neck"] }
+    ]
+  },
+  {
+    "group": "design elements - sleeve",
+    "attributes": [
+      { "display": "Raglan Sleeve", "pa": "raglan", "aliases": ["raglan", "raglan sleeve", "diagonal seam"] },
+      { "display": "Set In Sleeve", "pa": "set-in", "aliases": ["set in sleeve", "set-in sleeve", "traditional sleeve"] },
+      { "display": "Drop Sleeve", "pa": "drop", "aliases": ["drop sleeve", "drop shoulder", "easy sleeve"] },
+      { "display": "Modified Drop Sleeve", "pa": "modified-drop", "aliases": ["modified drop", "modified drop sleeve"] },
+      { "display": "Dolman Sleeve", "pa": "dolman", "aliases": ["dolman", "dolman sleeve", "batwing sleeve"] },
+      { "display": "Sleeveless", "pa": "sleeveless", "aliases": ["sleeveless", "no sleeves", "tank"] },
+      { "display": "Short Sleeve", "pa": "short", "aliases": ["short sleeve", "short sleeves"] },
+      { "display": "Long Sleeve", "pa": "long", "aliases": ["long sleeve", "full length sleeve"] },
+      { "display": "Puffed Sleeve", "pa": "puffed", "aliases": ["puffed sleeve", "puff sleeve", "balloon sleeve"] },
+      { "display": "Saddle Shoulder", "pa": "saddle-shoulder", "aliases": ["saddle shoulder", "saddle sleeve"] },
+      { "display": "Contiguous Sleeve", "pa": "contiguous", "aliases": ["contiguous", "contiguous sleeve method"] }
+    ]
+  },
+  {
+    "group": "design elements - other",
+    "attributes": [
+      { "display": "Circular Yoke", "pa": "circular-yoke", "aliases": ["circular yoke", "yoke sweater", "round yoke", "icelandic yoke"] },
+      { "display": "Hood", "pa": "hood", "aliases": ["hood", "hooded"] },
+      { "display": "Pocket", "pa": "any-pockets", "aliases": ["pocket", "pockets", "has pockets"] },
+      { "display": "Cropped", "pa": "cropped", "aliases": ["cropped", "crop top", "short length"] },
+      { "display": "Waist Shaping", "pa": "waist-shaping", "aliases": ["waist shaping", "fitted waist", "hourglass"] },
+      { "display": "Zipper", "pa": "zipper", "aliases": ["zipper", "zip", "zip front"] },
+      { "display": "Oversized", "pa": "oversized", "aliases": ["oversized", "boxy", "relaxed"] },
+      { "display": "Wrap", "pa": "wrap", "aliases": ["wrap", "wrap style", "crossover"] },
+      { "display": "A-Line", "pa": "a-line", "aliases": ["a-line", "a line", "flared hem"] },
+      { "display": "Empire Waist", "pa": "empire-waist", "aliases": ["empire waist", "empire line", "high waist"] },
+      { "display": "Ruffles", "pa": "ruffles", "aliases": ["ruffles", "ruffle", "flounce"] },
+      { "display": "Fringe", "pa": "fringe", "aliases": ["fringe", "tassels and fringe"] },
+      { "display": "Lace Edging", "pa": "lace-edging", "aliases": ["lace edging", "lace border", "lace trim"] },
+      { "display": "Stripes Design", "pa": "stripes", "aliases": ["striped design", "colour block"] },
+      { "display": "Beads", "pa": "beads-pailettes", "aliases": ["beads", "beaded", "sequins", "pailettes"] },
+      { "display": "Embroidery", "pa": "embroidery", "aliases": ["embroidery", "embroidered"] },
+      { "display": "Duplicate Stitch", "pa": "duplicate-stitch", "aliases": ["duplicate stitch", "swiss darning"] }
+    ]
+  },
+  {
+    "group": "fabric characteristics",
+    "attributes": [
+      { "display": "Cables", "pa": "cables", "aliases": ["cables", "cable knit", "aran cables", "cable pattern"] },
+      { "display": "Lace", "pa": "lace", "aliases": ["lace", "lace pattern", "lacy", "openwork"] },
+      { "display": "Brioche", "pa": "brioche", "aliases": ["brioche", "brioche knitting", "tuck stitch", "fisherman rib"] },
+      { "display": "Bobble / Popcorn / Nupp", "pa": "bobble-popcorn-nupp", "aliases": ["bobble", "popcorn", "nupp", "bobbles"] },
+      { "display": "Textured", "pa": "textured", "aliases": ["textured", "texture stitch", "dimensional"] },
+      { "display": "Ribbing", "pa": "ribbed-ribbing", "aliases": ["ribbed", "ribbing", "rib stitch", "1x1 rib", "2x2 rib"] },
+      { "display": "Twisted Stitches", "pa": "twisted-stitches", "aliases": ["twisted stitches", "twisted stitch", "german stitches"] },
+      { "display": "Eyelets", "pa": "eyelets", "aliases": ["eyelets", "eyelet", "eyelet lace"] },
+      { "display": "Chevron", "pa": "chevron-flame-stitch", "aliases": ["chevron", "zigzag", "flame stitch"] },
+      { "display": "Reversible", "pa": "reversible", "aliases": ["reversible", "double sided", "two sided"] },
+      { "display": "Mesh", "pa": "mesh", "aliases": ["mesh", "net", "mesh stitch"] },
+      { "display": "Slipped Stitches", "pa": "slipped-stitches", "aliases": ["slipped stitches", "slip stitch pattern"] },
+      { "display": "Smocked", "pa": "smocked", "aliases": ["smocked", "smocking"] }
+    ]
+  },
+  {
+    "group": "pattern instructions",
+    "attributes": [
+      { "display": "Chart", "pa": "chart", "aliases": ["chart", "charted", "has chart", "includes chart", "symbol chart"] },
+      { "display": "Schematic", "pa": "schematic", "aliases": ["schematic", "has schematic", "includes schematic", "diagram"] },
+      { "display": "Video Tutorial", "pa": "video-tutorial", "aliases": ["video tutorial", "video", "youtube tutorial"] },
+      { "display": "Photo Tutorial", "pa": "photo-tutorial", "aliases": ["photo tutorial", "step by step photos", "photo instructions"] },
+      { "display": "Written Pattern", "pa": "written-pattern", "aliases": ["written", "written instructions", "row by row", "text instructions"] },
+      { "display": "Low Vision", "pa": "low-vision", "aliases": ["low vision", "accessible", "large print"] },
+      { "display": "Color Blind Accessible", "pa": "color-blind-accessible", "aliases": ["color blind", "colorblind accessible"] }
+    ]
+  },
+  {
+    "group": "regional / ethnic styles",
+    "attributes": [
+      { "display": "Fair Isle", "pa": "fairisle", "aliases": ["fair isle", "fairisle", "shetland colorwork"] },
+      { "display": "Aran", "pa": "aran", "aliases": ["aran", "aran style", "irish aran", "fisherman"] },
+      { "display": "Norwegian", "pa": "norwegian", "aliases": ["norwegian", "nordic", "scandinavian"] },
+      { "display": "Icelandic", "pa": "icelandic", "aliases": ["icelandic", "lopapeysa", "lopi"] },
+      { "display": "Estonian", "pa": "estonian", "aliases": ["estonian", "nupps", "estonian lace"] },
+      { "display": "Latvian", "pa": "latvian", "aliases": ["latvian", "latvian mittens"] },
+      { "display": "Shetland", "pa": "shetland", "aliases": ["shetland", "shetland lace"] },
+      { "display": "Bavarian", "pa": "bavarian", "aliases": ["bavarian", "bavarian crochet"] },
+      { "display": "Turkish", "pa": "turkish", "aliases": ["turkish", "anatolian"] },
+      { "display": "Amigurumi", "pa": "amigurumi", "aliases": ["amigurumi", "japanese crochet toy", "kawaii crochet"] }
+    ]
+  },
+  {
+    "group": "sock techniques",
+    "attributes": [
+      { "display": "Toe Up", "pa": "toe-up", "aliases": ["toe up", "toe-up", "starting at toe"] },
+      { "display": "Top / Cuff Down", "pa": "top-cuff-down", "aliases": ["cuff down", "top down sock", "traditional sock", "starting at cuff"] },
+      { "display": "Heel Flap", "pa": "heel-flap", "aliases": ["heel flap", "flap heel", "traditional heel"] },
+      { "display": "Short Row Heel", "pa": "short-row-heel", "aliases": ["short row heel", "german short row heel", "shadow wrap heel"] },
+      { "display": "Afterthought Heel", "pa": "afterthought-heel", "aliases": ["afterthought heel", "peasant heel"] },
+      { "display": "Dutch Heel", "pa": "dutch-heel", "aliases": ["dutch heel", "square heel"] },
+      { "display": "Two At A Time", "pa": "two-at-a-time", "aliases": ["two at a time", "taat", "two socks at once", "magic loop two at a time"] },
+      { "display": "Shaped Arches", "pa": "shaped-arches", "aliases": ["shaped arch", "arch shaping", "foot shaping"] }
+    ]
+  },
+  {
+    "group": "shapes",
+    "attributes": [
+      { "display": "Triangle", "pa": "triangle", "aliases": ["triangle", "triangular shawl", "triangle shawl"] },
+      { "display": "Circle", "pa": "circle", "aliases": ["circle", "circular", "round"] },
+      { "display": "Rectangle", "pa": "rectangle", "aliases": ["rectangle", "rectangular", "rectangular shawl"] },
+      { "display": "Square", "pa": "square", "aliases": ["square", "square shawl"] },
+      { "display": "Crescent", "pa": "crescent", "aliases": ["crescent", "crescent shawl"] },
+      { "display": "Half Circle", "pa": "half-circle", "aliases": ["half circle", "semicircle shawl"] }
+    ]
+  },
+  {
+    "group": "accessibility",
+    "attributes": [
+      { "display": "Adaptive Design", "pa": "adaptive-design", "aliases": ["adaptive", "adaptive knitting", "adaptive design"] },
+      { "display": "Therapy Aid", "pa": "therapy-aid-toy", "aliases": ["therapy", "therapy aid", "sensory"] }
+    ]
+  }
+]

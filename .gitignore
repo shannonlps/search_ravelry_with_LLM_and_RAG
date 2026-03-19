@@ -1,0 +1,25 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+frontend/dist/
+
+# RAG database and progress (rebuilt by ingest.py)
+rag/data/chroma_db/
+rag/data/progress.json
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,163 @@
+[
+  {
+    "display": "Clothing", "pc": "clothing", "aliases": ["clothes", "garment", "wearable"],
+    "children": [
+      { "display": "Coat / Jacket", "pc": "coat-jacket", "aliases": ["coat", "jacket", "outerwear"] },
+      { "display": "Dress", "pc": "dress", "aliases": ["dress", "frock"] },
+      { "display": "Intimate Apparel", "pc": "intimate-apparel", "aliases": ["underwear", "lingerie"],
+        "children": [
+          { "display": "Bra", "pc": "bra", "aliases": ["bra", "bralette"] },
+          { "display": "Underwear", "pc": "underwear", "aliases": ["underwear", "panties", "knickers"] }
+        ]
+      },
+      { "display": "Leggings", "pc": "leggings", "aliases": ["leggings", "tights"] },
+      { "display": "Onesie", "pc": "onesie", "aliases": ["onesie", "bodysuit", "romper"] },
+      { "display": "Pants", "pc": "pants", "aliases": ["pants", "trousers", "bottoms"] },
+      { "display": "Robe", "pc": "robe", "aliases": ["robe", "dressing gown", "bathrobe"] },
+      { "display": "Shorts", "pc": "shorts", "aliases": ["shorts"] },
+      { "display": "Shrug / Bolero", "pc": "shrug-bolero", "aliases": ["shrug", "bolero", "crop cardigan"] },
+      { "display": "Skirt", "pc": "skirt", "aliases": ["skirt"] },
+      { "display": "Sleepwear", "pc": "sleepwear", "aliases": ["pajamas", "pyjamas", "sleepwear", "nightwear"] },
+      { "display": "Soakers", "pc": "soakers", "aliases": ["soakers", "diaper cover", "nappy cover"] },
+      { "display": "Sweater", "pc": "sweater", "aliases": ["sweater", "jumper", "jersey", "pullover top"],
+        "children": [
+          { "display": "Cardigan", "pc": "cardigan", "aliases": ["cardigan", "open front", "button up sweater", "button front"] },
+          { "display": "Pullover", "pc": "pullover", "aliases": ["pullover", "jumper", "jersey", "crew", "turtleneck sweater"] }
+        ]
+      },
+      { "display": "Swimwear", "pc": "swimwear", "aliases": ["swimwear", "swimsuit", "bikini", "bathing suit"] },
+      { "display": "Tops", "pc": "tops", "aliases": ["top", "shirt", "blouse", "tank"] },
+      { "display": "Vest", "pc": "vest", "aliases": ["vest", "waistcoat", "sleeveless sweater"] }
+    ]
+  },
+  {
+    "display": "Accessories", "pc": "accessories", "aliases": ["accessory", "accessories"],
+    "children": [
+      { "display": "Bag", "pc": "bag", "aliases": ["bag", "purse", "tote"],
+        "children": [
+          { "display": "Backpack", "pc": "backpack", "aliases": ["backpack", "rucksack"] },
+          { "display": "Market Bag", "pc": "market-bag", "aliases": ["market bag", "grocery bag", "mesh bag", "slouchy bag"] },
+          { "display": "Purse / Handbag", "pc": "purse-handbag", "aliases": ["purse", "handbag"] },
+          { "display": "Tote", "pc": "tote", "aliases": ["tote", "tote bag"] }
+        ]
+      },
+      { "display": "Belt", "pc": "belt", "aliases": ["belt", "waistband"] },
+      { "display": "Feet / Legs", "pc": "feet-legs", "aliases": ["feet", "legs"],
+        "children": [
+          { "display": "Boot Toppers", "pc": "boot-toppers", "aliases": ["boot toppers", "boot cuffs"] },
+          { "display": "Booties", "pc": "booties", "aliases": ["booties", "baby shoes", "baby boots"] },
+          { "display": "Legwarmers", "pc": "legwarmers", "aliases": ["legwarmers", "leg warmers"] },
+          { "display": "Slippers", "pc": "slippers", "aliases": ["slippers", "house shoes"] },
+          { "display": "Socks", "pc": "socks", "aliases": ["socks", "sock", "stockings", "hosiery"] },
+          { "display": "Spats", "pc": "spats", "aliases": ["spats", "gaiters"] }
+        ]
+      },
+      { "display": "Hands", "pc": "hands", "aliases": ["hands", "handwear"],
+        "children": [
+          { "display": "Fingerless Gloves / Mitts", "pc": "fingerless-gloves-mitts", "aliases": ["fingerless gloves", "fingerless mitts", "wrist warmers", "arm warmers"] },
+          { "display": "Gloves", "pc": "gloves", "aliases": ["gloves"] },
+          { "display": "Mittens", "pc": "mittens", "aliases": ["mittens", "mitts"] },
+          { "display": "Convertible", "pc": "convertible", "aliases": ["convertible mittens", "flip top mittens"] },
+          { "display": "Cuffs", "pc": "cuffs", "aliases": ["cuffs", "wristlets", "wrist cuffs"] }
+        ]
+      },
+      { "display": "Hat", "pc": "hat", "aliases": ["hat", "cap", "headwear"],
+        "children": [
+          { "display": "Balaclava", "pc": "balaclava", "aliases": ["balaclava", "ski mask", "face mask"] },
+          { "display": "Beanie / Toque", "pc": "beanie-toque", "aliases": ["beanie", "toque", "toboggan", "slouchy hat", "knit hat", "winter hat"] },
+          { "display": "Beret / Tam", "pc": "beret-tam", "aliases": ["beret", "tam", "tam o shanter"] },
+          { "display": "Billed", "pc": "billed", "aliases": ["billed hat", "baseball cap", "peaked cap"] },
+          { "display": "Bonnet", "pc": "bonnet", "aliases": ["bonnet", "baby bonnet"] },
+          { "display": "Brimmed", "pc": "brimmed", "aliases": ["brimmed hat", "sun hat", "wide brim"] },
+          { "display": "Cloche", "pc": "cloche", "aliases": ["cloche", "cloche hat"] },
+          { "display": "Earflap", "pc": "earflap", "aliases": ["earflap hat", "trapper hat", "ear flap"] },
+          { "display": "Pixie", "pc": "pixie", "aliases": ["pixie hat", "elf hat", "pointed hat"] },
+          { "display": "Stocking", "pc": "stocking", "aliases": ["stocking cap", "long hat"] }
+        ]
+      },
+      { "display": "Jewelry", "pc": "jewelry", "aliases": ["jewelry", "jewellery", "accessories"],
+        "children": [
+          { "display": "Bracelet", "pc": "bracelet", "aliases": ["bracelet", "bangle"] },
+          { "display": "Necklace", "pc": "necklace", "aliases": ["necklace", "collar necklace"] }
+        ]
+      },
+      { "display": "Neck / Torso", "pc": "neck-torso", "aliases": ["neck", "torso", "neckwear"],
+        "children": [
+          { "display": "Bib", "pc": "bib", "aliases": ["bib", "baby bib"] },
+          { "display": "Cape", "pc": "cape", "aliases": ["cape", "capelet"] },
+          { "display": "Collar", "pc": "collar", "aliases": ["collar", "detachable collar"] },
+          { "display": "Cowl", "pc": "cowl", "aliases": ["cowl", "neck warmer", "infinity scarf", "snood"] },
+          { "display": "Necktie", "pc": "necktie", "aliases": ["necktie", "tie", "bow tie"] },
+          { "display": "Poncho", "pc": "poncho", "aliases": ["poncho"] },
+          { "display": "Scarf", "pc": "scarf", "aliases": ["scarf", "wrap scarf", "muffler"] },
+          { "display": "Shawl / Wrap", "pc": "shawl-wrap", "aliases": ["shawl", "wrap", "stole", "shawlette", "triangle shawl", "shawl wrap"] }
+        ]
+      },
+      { "display": "Other Headwear", "pc": "other-headwear", "aliases": ["headwear"],
+        "children": [
+          { "display": "Earwarmers", "pc": "earwarmers", "aliases": ["earwarmers", "ear warmers", "ear muffs"] },
+          { "display": "Headband", "pc": "headband", "aliases": ["headband", "hair band"] },
+          { "display": "Headwrap", "pc": "headwrap", "aliases": ["headwrap", "head wrap", "turban"] },
+          { "display": "Snood", "pc": "snood", "aliases": ["snood", "hair snood"] }
+        ]
+      }
+    ]
+  },
+  {
+    "display": "Home", "pc": "home", "aliases": ["home decor", "household", "home goods"],
+    "children": [
+      { "display": "Blanket", "pc": "blanket", "aliases": ["blanket", "afghan", "throw", "lap blanket"],
+        "children": [
+          { "display": "Baby Blanket", "pc": "baby-blanket", "aliases": ["baby blanket", "baby afghan", "pram blanket"] },
+          { "display": "Throw", "pc": "throw", "aliases": ["throw", "throw blanket"] }
+        ]
+      },
+      { "display": "Cleaning", "pc": "cleaning", "aliases": ["cleaning", "kitchen", "bathroom"],
+        "children": [
+          { "display": "Washcloth / Dishcloth", "pc": "washcloth-dishcloth", "aliases": ["washcloth", "dishcloth", "face cloth", "face flannel"] }
+        ]
+      },
+      { "display": "Cozy", "pc": "cozy", "aliases": ["cozy", "cosy", "cover"],
+        "children": [
+          { "display": "Cup / Mug Cozy", "pc": "cup-mug-cozy", "aliases": ["mug cozy", "cup cozy", "coffee sleeve"] }
+        ]
+      },
+      { "display": "Decorative", "pc": "decorative", "aliases": ["decorative", "decoration", "ornament"],
+        "children": [
+          { "display": "Doily", "pc": "doily", "aliases": ["doily", "lace doily"] },
+          { "display": "Wall Hanging", "pc": "wall-hanging", "aliases": ["wall hanging", "wall art", "tapestry"] }
+        ]
+      },
+      { "display": "Pillow", "pc": "pillow", "aliases": ["pillow", "cushion", "pillow cover"] },
+      { "display": "Rug", "pc": "rug", "aliases": ["rug", "mat", "carpet"] }
+    ]
+  },
+  {
+    "display": "Toys and Hobbies", "pc": "toys-and-hobbies", "aliases": ["toys", "hobbies", "kids toys"],
+    "children": [
+      { "display": "Softies", "pc": "softies", "aliases": ["softies", "stuffed animal", "plushie", "cuddly toy"],
+        "children": [
+          { "display": "Animal", "pc": "animal", "aliases": ["stuffed animal", "animal toy", "plush animal"] },
+          { "display": "Doll", "pc": "doll", "aliases": ["doll", "rag doll"] }
+        ]
+      },
+      { "display": "Amigurumi", "pc": "toy-doll", "aliases": ["amigurumi", "crochet toy", "kawaii"] },
+      { "display": "Puppet", "pc": "puppet", "aliases": ["puppet", "hand puppet", "finger puppet"] }
+    ]
+  },
+  {
+    "display": "Pet", "pc": "pet", "aliases": ["pet", "animal", "dog", "cat"],
+    "children": [
+      { "display": "Pet Clothing", "pc": "pet-clothing", "aliases": ["dog sweater", "cat sweater", "pet clothes"] },
+      { "display": "Pet Accessories", "pc": "pet-accessories", "aliases": ["pet accessories", "dog accessories", "pet collar"] }
+    ]
+  },
+  {
+    "display": "Components", "pc": "components", "aliases": ["components", "parts", "blocks"],
+    "children": [
+      { "display": "Afghan Block", "pc": "afghan-block", "aliases": ["block", "square", "granny square block"] },
+      { "display": "Edging", "pc": "edging", "aliases": ["edging", "border", "trim"] },
+      { "display": "Stitch Pattern", "pc": "stitch-pattern", "aliases": ["stitch pattern", "stitch", "pattern swatch"] }
+    ]
+  }
+]

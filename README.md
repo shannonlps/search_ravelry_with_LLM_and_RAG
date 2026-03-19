@@ -4,6 +4,8 @@ Natural language pattern search for [Ravelry](https://www.ravelry.com) powered b
 
 This is the RAG-enhanced version of [search_ravelry_with_LLM](https://github.com/shannonlps/search_ravelry_with_LLM), which is preserved as a clean non-RAG checkpoint.
 
+![Ravelry AI Search Results with RAG](assets/Ravelry_Search_Results_LLM_RAG.png)
+
 ---
 
 ## What the RAG layer does
